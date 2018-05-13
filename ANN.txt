@@ -17,7 +17,7 @@
 [size=12pt]The investment fund will pay 10% dividend to all of our Onasander ONA token holders, as percentage of profits will be quarterly distributed to those who invested in our company.  Onasander fund will turn regular profits, because of our experience, and because of its unique Asset Price Analysis Software called Onasander.  Below is a chart from our Onasander trading application presenting most overpriced assets as of March 2018.[/size]
 
 
-[center][img]http://onasander.com/images/charts/overpriced-2018.gif[/img]
+[center][img]http://onasander.com/images/charts/overpriced_assets_2018_gray.png[/img]
 
 This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.org/u/60aa8167-f22e-d005-1acd-c5e4558b64a3
 [/center]
@@ -35,6 +35,21 @@ This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.or
 
 
 
+[color=teal][b][size=26pt]The Whitepaper[/size][/b][/color]
+[size=12pt]Here you can view and download our ICO Whitepaper. Below you can choose your favorite medium for viewing the Whitepaper.[/size]
+
+
+[img]http://onasander.com/images/icons/html.png[/img]  [url]Onasander ICO Whitepaper - HTML Viewer[/url]
+
+
+[img]http://onasander.com/images/icons/word.png[/img]  [url]Download Onasander ICO Whitepaper - Microsoft Word[/url]
+
+
+[img]http://onasander.com/images/icons/pdf.png[/img]  [url]Download Onasander ICO Whitepaper - Adobe PDF[/url]
+
+
+
+
 [color=teal][b][size=26pt]The ICO[/size][/b][/color]
 [size=12pt]What is Onasander ICO?  It is the first decentralized investment bank ICO that we are planning to make legal in United States of America.  The plan is to collect funds through crowdfunding.  Next, we will open up an investment fund.  The fund will trade and invest the ICO money using our Asset Price Analysis Software, until we are ready to turn the fund into an investment bank.  
 
@@ -48,13 +63,15 @@ Our ICO will have three PRE ICO-phases and one final ICO phase.  The token price
 [color=teal][b][size=16pt]ICO Schedule[/size][/b][/color]
 [size=12pt]Onasander ICO will adhere to the following schedule:[/size]
 
-[center][img]http://onasander.com/images/ico/ico_timeline_pic.png[/img][/center]
+[center][img]http://onasander.com/images/ico/ico_timeline_gray.png[/img][/center]
 
 [size=12pt]* The first phase of the PRE-ICO is for non-United States investors only. 
 ICO timeline dates and prices are dynamic, we reserve the right to change both parameters in case we need to.  Each ICO phase will last for 33 days.
 Please always make sure to check on our website for the latest updates.
 [/size]
 
+[color=teal][b][size=16pt]Token Distribution[/size][/b][/color]
+[center][img]http://onasander.com/images/ico/distribution_gray.png[/img][/center]
 
 
 
@@ -141,6 +158,8 @@ Onasander market calls provide us with the exact price for the trade entry and e
 [/list]
 
 
+
+
 [color=teal][b][size=26pt]Technical Details[/size][/b][/color]
 [size=12pt]Onasander tokens are cryptocurrency ERC20 tokens based on Ethereum technology.  Below you can get familiar with the technology and review how the ONA tokens will work, and how to obtain them in the ICO process.  The Onasander token will work just like a Closed-End Fund.  The number of tokens will be fixed.  The tokens will be traded among investors on an exchange.  Just like stocks, the token price will be determined according to the laws of supply and demand.  It means it will often trade at a wide discount or premium to the net asset value backing the token.
 [/size]
@@ -159,6 +178,50 @@ Minimum Buy In: 0.1 ETH
 Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a750ead35e3043[/url][/size]
 
 
+
+
+[color=teal][b][size=26pt]Management Team[/size][/b][/color]
+
+[color=teal][b][size=14pt]Andrzej Wegrzyn – Founder & CEO[/size][/b][/color]
+[size=12pt]I have 20 years of experience in trading and investing in varies assets.  Over that time span I managed family related funds, and estates.  I dedicated over a decade of my life to financial analysis, price behavior, trading software development, and anything related to price behavior while working at Morgan Stanley, and for my own company.[/size]
+
+[color=teal][b][size=14pt]Anna Kretovitcz – Finance and Accounting[/size][/b][/color]
+[size=12pt]Anna comes from a corporate background.  She ran companies in New York City and was a Chief Financial Officer at Michael Cohen Group (US Grants).  She holds a CPA license and will be our go to person when it comes to running our accounting, taxation, and internal finance.[/size]
+
+[color=teal][b][size=14pt]Robert Muer – IT Security and Development[/size][/b][/color]
+[size=12pt]Robert is freelancing for Onasander, but we are looking to hire him full time once ICO ends.  Robert has an extensive background in IT security.  His 15-year tenure in IT Security at various financial firms gave him tremendous experience in securing data, money, information, and info structure.[/size]
+
+[color=teal][b][size=14pt]Adam Wagner – Developer & IT Lead[/size][/b][/color]
+[size=12pt]Adam is a developer who will be responsible for developing all reporting software for the company.  His talents and leadership will be utilized where he will lead a team of developers to build dividend payment system for our ICO clients, back office applications, intranets, internal Onasander token exchange, and many more IT projects.[/size]
+
+
+
+
+[color=teal][b][size=26pt]Contact Information[/size][/b][/color]
+[size=12pt]Onasander
+285 Fulton St 
+New York, NY 10007
+[url]http://www.Onasander.com[/url]
+email: [email]info@onasander.com[/email]
+phone: +1.800.997.4066
+[/size]
+
+[img]http://onasander.com/images/icons/twitter.png[/img] Twitter: https://twitter.com/OnasanderICO
+
+[img]http://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/onasander.ico.bank
+
+[img]http://onasander.com/images/icons/linkedin.png[/img] LinkedIn: https://www.linkedin.com/in/onasander-ico-3862a7161/
+
+[img]http://onasander.com/images/icons/github.png[/img] GitHub: https://github.com/onasander
+
+[img]http://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/joinchat/G52Z0g2M0gnvX6L-92UZvA
+
+[img]http://onasander.com/images/icons/discord.png[/img] Discord: https://discordapp.com/invite/8tyyX8g
+
+
+[center]
+[img]http://onasander.com/images/smart_contract_with_title.png[/img]     [img]http://onasander.com/images/onasander_contact_with_title.png[/img]     [img]http://onasander.com/images/whitepaper_with_title.png[/img]
+[/center]
 
 
 
