@@ -57,7 +57,7 @@ Our ICO will have three PRE ICO-phases and one final ICO phase.  The token price
 
 [color=teal][b][size=16pt]ICO Address[/size][/b][/color]
 [color=red][size=16pt]Onasander ICO address:  0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/size][/color]
-[img]http://onasander.com/images/ico/qr_contract.png[/img]
+[img]http://onasander.com/images/onasander_contract_address_gray.png[/img]
 
 
 [color=teal][b][size=16pt]ICO Schedule[/size][/b][/color]
