@@ -89,6 +89,10 @@ Please always make sure to check on our website for the latest updates.
 
 Onasander market calls provide us with the exact price for the trade entry and exit, along with precise timing.  Knowing correctly what to buy, at what price, and when, is our most valuable, and unique part of the company.  Our software can also predict trade entry points into the future for decades.  Knowing when and what will be a price of assets in the future helps us to position our investments accordingly, so that not only we make money currently, we will also be ready for future trades.[/size]
 
+
+[center][img]http://onasander.com/images/ico/investment_bank.png[/img][/center]
+
+
 [color=teal][b][size=16pt]Investment Bank Timeline[/size][/b][/color]
 [list]
 [li] 	[size=12pt]Hire Onasander ICO Team – [b]completed[/b][/size][/li]
@@ -178,19 +182,8 @@ Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a7
 
 
 
-[color=teal][b][size=26pt]Management Team[/size][/b][/color]
 
-[color=teal][b][size=14pt]Andrzej Wegrzyn – Founder & CEO[/size][/b][/color]
-[size=12pt]I have 20 years of experience in trading and investing in varies assets.  Over that time span I managed family related funds, and estates.  I dedicated over a decade of my life to financial analysis, price behavior, trading software development, and anything related to price behavior while working at Morgan Stanley, and for my own company.[/size]
-
-[color=teal][b][size=14pt]Anna Kretovitcz – Finance and Accounting[/size][/b][/color]
-[size=12pt]Anna comes from a corporate background.  She ran companies in New York City and was a Chief Financial Officer at Michael Cohen Group (US Grants).  She holds a CPA license and will be our go to person when it comes to running our accounting, taxation, and internal finance.[/size]
-
-[color=teal][b][size=14pt]Robert Muer – IT Security and Development[/size][/b][/color]
-[size=12pt]Robert is freelancing for Onasander, but we are looking to hire him full time once ICO ends.  Robert has an extensive background in IT security.  His 15-year tenure in IT Security at various financial firms gave him tremendous experience in securing data, money, information, and info structure.[/size]
-
-[color=teal][b][size=14pt]Adam Wagner – Developer & IT Lead[/size][/b][/color]
-[size=12pt]Adam is a developer who will be responsible for developing all reporting software for the company.  His talents and leadership will be utilized where he will lead a team of developers to build dividend payment system for our ICO clients, back office applications, intranets, internal Onasander token exchange, and many more IT projects.[/size]
+[center][img]http://onasander.com/images/team/team.png[/img][/center]
 
 
 
