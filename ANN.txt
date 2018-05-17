@@ -39,14 +39,33 @@ This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.or
 [size=12pt]Here you can view and download our ICO Whitepaper. Below you can choose your favorite medium for viewing the Whitepaper.[/size]
 
 
-[img]http://onasander.com/images/icons/html.png[/img]  [url]Onasander ICO Whitepaper - HTML Viewer[/url]
 
-
-[img]http://onasander.com/images/icons/word.png[/img]  [url]Download Onasander ICO Whitepaper - Microsoft Word[/url]
-
-
-[img]http://onasander.com/images/icons/pdf.png[/img]  [url]Download Onasander ICO Whitepaper - Adobe PDF[/url]
-
+[center]
+[table]
+[tr]
+[td][img]http://onasander.com/images/icons/html.png[/img][/td]
+[td]    [/td]
+[td]    [/td]
+[td]    [/td]
+[td][img]http://onasander.com/images/icons/word.png[/img][/td]
+[td]    [/td]
+[td]    [/td]
+[td]    [/td]
+[td][img]http://onasander.com/images/icons/pdf.png[/img][/td]
+[/tr]
+[tr]
+[td][center][url]HTML Viewer[/url][/center][/td]
+[td]    [/td]
+[td]    [/td]
+[td]    [/td]
+[td][center][url]MS Word Viewer[/url][/center][/td]
+[td]    [/td]
+[td]    [/td]
+[td]    [/td]
+[td][center][url]PDF Viewer[/url][/center][/td]
+[/tr]
+[/table]
+[/center]
 
 
 
@@ -55,23 +74,23 @@ This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.or
 
 Our ICO will have three PRE ICO-phases and one final ICO phase.  The token price in the initial PRE-ICO will be the cheapest and it will increase in value in the later phases.  We reserve the right to adjust PRE ICO and ICO dates, but we guarantee to be completed with the ICO by February 2019.  Please refer to the ICO Pricing and Schedule section for more details.  Technical ICO specification is defied in the Technical Details section.[/size]
 
+
 [color=teal][b][size=16pt]ICO Address[/size][/b][/color]
 [color=red][size=16pt]Onasander ICO address:  0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/size][/color]
-[img]http://onasander.com/images/onasander_contract_address_gray.png[/img]
 
 
-[color=teal][b][size=16pt]ICO Schedule[/size][/b][/color]
+[color=teal][b][size=16pt]ICO Schedule Pricing and Token Distribution[/size][/b][/color]
 [size=12pt]Onasander ICO will adhere to the following schedule:[/size]
 
-[center][img]http://onasander.com/images/ico/ico_timeline_gray.png[/img][/center]
+
+[center][img]http://onasander.com/images/ico/distribution.png[/img][/center]
+
+
 
 [size=12pt]* The first phase of the PRE-ICO is for non-United States investors only. 
 ICO timeline dates and prices are dynamic, we reserve the right to change both parameters in case we need to.  Each ICO phase will last for 33 days.
 Please always make sure to check on our website for the latest updates.
 [/size]
-
-[color=teal][b][size=16pt]Token Distribution[/size][/b][/color]
-[center][img]http://onasander.com/images/ico/distribution_gray.png[/img][/center]
 
 
 
@@ -167,12 +186,13 @@ Onasander market calls provide us with the exact price for the trade entry and e
 
 
 
+[center][img]http://onasander.com/images/team/team.png[/img][/center]
+
+
+
 
 [color=teal][b][size=26pt]Technical Details[/size][/b][/color]
 [size=12pt]Onasander tokens are cryptocurrency ERC20 tokens based on Ethereum technology.  Below you can get familiar with the technology and review how the ONA tokens will work, and how to obtain them in the ICO process.  The Onasander token will work just like a Closed-End Fund.  The number of tokens will be fixed.  The tokens will be traded among investors on an exchange.  Just like stocks, the token price will be determined according to the laws of supply and demand.  It means it will often trade at a wide discount or premium to the net asset value backing the token.
-
-ERC20 Contract: 0x5884c40ddEd55b5649A1AaA677A750eaD35E3043
-Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a750ead35e3043[/url]
 [/size]
 
 
@@ -183,7 +203,8 @@ Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a7
 
 
 
-[center][img]http://onasander.com/images/team/team.png[/img][/center]
+[size=12pt]ERC20 Contract: 0x5884c40ddEd55b5649A1AaA677A750eaD35E3043
+Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a750ead35e3043[/url][/size]
 
 
 
@@ -213,6 +234,43 @@ phone: +1.800.997.4066
 [center]
 [img]http://onasander.com/images/smart_contract_with_title.png[/img]     [img]http://onasander.com/images/onasander_contact_with_title.png[/img]     [img]http://onasander.com/images/whitepaper_with_title.png[/img]
 [/center]
+
+
+
+
+[color=teal][b][size=26pt]Ethereum Wallets[/size][/b][/color]
+[size=12pt]Please note the above-mentioned wallets change pretty often.  Always research your best wallet options.  In case the investor does not have a wallet, he can simply fund these wallets using FIAT currency (real money), and purchase Ethereum on an exchange. He then sends the Ethereum into the crowd sale Smart Contract address.  It is very important not to send your Ethereum tokens straight from the exchange to our address.  You need to send your Ethereum tokens from the exchange to your non-exchange Ethereum wallet first, and then from that wallet to our contract address.[/size]
+
+[center]
+[table]
+[tr]
+[td][center][img]http://onasander.com/images/ann/myetherwallet.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/ethereum_wallet.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/exodus.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/metamask.png[/img][/center][/td]
+[/tr]
+[tr]
+[td][center][url]MyEtherWallet.com[/url][/center][/td]
+[td][center][url]EthereumWallet.com[/url][/center][/td]
+[td][center][url]Exodus.com[/url][/center][/td]
+[td][center][url]MetaMask.com[/url][/center][/td]
+[/tr]
+[tr]
+[td][center][img]http://onasander.com/images/ann/trezor.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/imtoken.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/ledger.png[/img][/center][/td]
+[td][center][img]http://onasander.com/images/ann/jaxx.png[/img][/center][/td]
+[/tr]
+[tr]
+[td][center][url]Trezor.com[/url][/center][/td]
+[td][center][url]imToken.com[/url][/center][/td]
+[td][center][url]Ledger.com[/url][/center][/td]
+[td][center][url]Jaxx.com[/url][/center][/td]
+[/tr]
+[/table]
+[/center]
+
+
 
 
 
