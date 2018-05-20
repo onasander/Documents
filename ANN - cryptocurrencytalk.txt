@@ -1,0 +1,271 @@
+
+[center][img]http://onasander.com/images/ann/title_red.png[/img][/center]
+
+[center][size=20pt][b]Official Website:[/b]  [url=http://www.Onasander.com]www.Onasander.com[/url][/size][/center]
+
+
+[center][color=teal][size=16pt][url=http://onasander.com/whitepaper.html]WHITEPAPER[/url]  |  [url=https://www.facebook.com/onasander.ico.bank]FACEBOOK[/url]  |  [url=https://twitter.com/OnasanderICO]TWITTER[/url]  |  [url=https://t.me/joinchat/G52Z0g2M0gnvX6L-92UZvA]TELEGRAM[/url]  |  [url=https://discordapp.com/invite/8tyyX8g]DISCORD[/url]  |  [url=https://www.linkedin.com/in/onasander-ico-3862a7161/]LINKED IN[/url]  |  [url=https://github.com/onasander]GITHUB[/url]  |  [url=https://etherscan.io/token/0x5884c40dded55b5649a1aaa677a750ead35e3043]0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/url][/size][/color][/center]
+
+
+[b][size=26pt][color=teal]Executive Summary[/color][/size][/b]
+[size=12pt]This is our whitepaper for building the first decentralized investment bank crowdfunded using blockchain technology.  The plan to open up an investment bank is to build an investment fund first.  The fund, including our ICO tokens will be backed by tradable assets of this world.  Simply put, by entire world economy.  With time and trading the fund will be big enough to be converted into an investment bank.[/size]
+[color=teal]
+
+
+
+[b][size=16pt]Highlights[/size][/b][/color]
+[size=12pt]The investment fund will pay 10% dividend to all of our Onasander ONA token holders, as percentage of profits will be quarterly distributed to those who invested in our company.  Onasander fund will turn regular profits, because of our experience, and because of its unique Asset Price Analysis Software called Onasander.  Below is a chart from our Onasander trading application presenting most overpriced assets as of March 2018.[/size]
+
+
+[center][img]http://onasander.com/images/charts/overpriced_assets_2018_gray.png[/img]
+
+This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.org/u/60aa8167-f22e-d005-1acd-c5e4558b64a3
+[/center]
+
+
+[color=teal][b][size=16pt]Objectives[/size][/b][/color]
+[size=12pt]Our goal is to execute a very successful ICO, open up an investment fund, and take advantage of the upcoming stock recession, volatility, and price swings, all along benefitting our investors with dividends, and high token valuations.  With time, the objective will be to manage wealth for our clients and grow the bank.[/size]
+
+
+
+[color=teal][b][size=16pt]Mission Statement[/size][/b][/color]
+[size=12pt]The climate for opening up an investment fund is perfect.  We are living in interesting times.  Free money flowing from central banks to in debt and bankrupt governments around the world created a major global bubble in many asset classes, where prices have reached an extreme.  We are standing in front of an opportunity to open up a financial institution and make tremendous financial gains right from the start.  The upcoming recession in the world financial markets will create price volatility, and opportunities for years to come.  Using our unique Onasander trading software, we can foresee price movements and benefit from it.  [/size]
+
+
+
+[color=teal][b][size=16pt]Keys to Success[/size][/b][/color]
+[size=12pt]The Asset Price Analysis Software is the key to our success.  Our market tools developed over two decades have no competition in the financial world.  They allow us to predict market moves, see upcoming recessions, identify bubbles, find major tops, spot asset price bottoms, and successfully trade in all market conditions. [/size]
+
+
+[color=teal][b][size=26pt]The Whitepaper[/size][/b][/color]
+[size=12pt]Here you can view and download our ICO Whitepaper. Below you can choose your favorite medium for viewing the Whitepaper.[/size]
+
+
+
+[center]
+[img]http://onasander.com/images/icons/html.png[/img] [url=http://onasander.com/whitepaper_viewer.html]HTML Viewer[/url]
+
+
+[img]http://onasander.com/images/icons/word.png[/img] [url=http://onasander.com/documents/whitepaper.docx]MS Word Viewer[/url]
+
+
+[img]http://onasander.com/images/icons/pdf.png[/img] [url=http://onasander.com/documents/whitepaper.pdf]PDF Viewer[/url]
+
+[/center]
+
+
+
+
+
+[color=teal][b][size=26pt]The ICO[/size][/b][/color]
+[size=12pt]What is Onasander ICO?  It is the first decentralized investment bank ICO that we are planning to make legal in United States of America.  The plan is to collect funds through crowdfunding.  Next, we will open up an investment fund.  The fund will trade and invest the ICO money using our Asset Price Analysis Software, until we are ready to turn the fund into an investment bank.  
+
+Our ICO will have three PRE ICO-phases and one final ICO phase.  The token price in the initial PRE-ICO will be the cheapest and it will increase in value in the later phases.  We reserve the right to adjust PRE ICO and ICO dates, but we guarantee to be completed with the ICO by February 2019.  Please refer to the ICO Pricing and Schedule section for more details.  Technical ICO specification is defied in the Technical Details section.[/size]
+
+
+[color=teal][b][size=16pt]ICO Address[/size][/b][/color]
+[color=red][size=16pt]Onasander ICO address:  0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/size][/color]
+
+
+[color=teal][b][size=16pt]ICO Schedule Pricing and Token Distribution[/size][/b][/color]
+[size=12pt]Onasander ICO will adhere to the following schedule:[/size]
+
+
+[center][img]http://onasander.com/images/ico/distribution.png[/img][/center]
+
+[size=12pt]* The first phase of the PRE-ICO is for non-United States investors only. 
+ICO timeline dates and prices are dynamic, we reserve the right to change both parameters in case we need to.  Each ICO phase will last for 33 days.
+Please always make sure to check on our website for the latest updates.
+[/size]
+
+
+
+[color=teal][b][size=26pt]The Investment Bank[/size][/b][/color]
+[size=12pt]There are only handful of investment banks in the world.  Opening up an investment bank is not an easy process.  Onasander strategy is to open up the bank in multiple steps.  First, the goal is to execute a successful ICO.  Then, using the ICO money, setup an investment fund and make it similar to a hedge fund.  With time, growth, and experience, the plan is to turn the fund into an investment bank.  [/size]
+
+
+
+[color=teal][b][size=16pt]Investment Fund[/size][/b][/color]
+[size=12pt]The cornerstone of our fund, and future bank will be our Asset Price Analysis Software.  The growth of the institution will be based on our trading software. This trading software is our unique way of analyzing asset prices and forecasting deals.[/size]
+
+
+
+[color=teal][b][size=16pt]Asset Price Analysis Software – the Brain of Our Investment Fund[/size][/b][/color]
+[size=12pt]The name of our Asset Price Analysis Software is called Onasander, hence the name for the investment bank.  The software itself is over 15 years old and has been forward tested since the beginning.  It has been backwards tested for about 300 years on some asset classes.  [/size]
+
+
+
+[color=teal][b][size=14pt]How Onasander Works?[/size][/b][/color]
+[size=12pt]Our trading software collects prices of all the assets we are tracking.  Based on those collected prices, it calculates if the asset is overbought or oversold.  It analyzes those prices and creates investment plans for the most optimal gains.  This is a dynamic process.  As time goes on, the most optimal investment plan changes since prices of assets change.  Trading team monitors the Onasander market calls and adjusts the portfolios, and trading positions so that they are aligned with the most optimal plan.   
+
+Onasander market calls provide us with the exact price for the trade entry and exit, along with precise timing.  Knowing correctly what to buy, at what price, and when, is our most valuable, and unique part of the company.  Our software can also predict trade entry points into the future for decades.  Knowing when and what will be a price of assets in the future helps us to position our investments accordingly, so that not only we make money currently, we will also be ready for future trades.[/size]
+
+
+[center][img]http://onasander.com/images/ico/investment_bank.png[/img][/center]
+
+
+[color=teal][b][size=16pt]Investment Bank Timeline[/size][/b][/color]
+[size=12pt]Hire Onasander ICO Team – [b]completed[/b][/size]
+[size=12pt]Write the Whitepaper –[b] completed[/b][/size]
+[size=12pt]Onasander Website – [b]completed[/b][/size]
+[size=12pt]Develop Onasander Smart Contracts – [b]completed[/b][/size]
+[size=12pt]Register Legal Entities for the company – May 2018[/size]
+[size=12pt]Prepare Marketing Plan – June 2018[/size]
+[size=12pt]Reach to Investors – June 2018[/size]
+[size=12pt]PRE ICO 1 / Pre-Sale – July 2018[/size]
+[size=12pt]Apply for SEC Regulation A+ compliance in USA – July 2019[/size]
+[size=12pt]PRE ICO 2 / Pre-Sale – September 2018[/size]
+[size=12pt]PRE ICO 3 / Pre-Sale – November 2018[/size]
+[size=12pt]ICO Sale – January 2019[/size]
+[size=12pt]Allocate ICO Funds – February 2019[/size]
+[size=12pt]Get Listed on Crypto Exchanges – February 2019[/size]
+[size=12pt]Lease Office Space – February 2019[/size]
+[size=12pt]Start the Investment Fund – February 2019[/size]
+[size=12pt]Purchase and Deploy Company Management Software – February 2019[/size]
+[size=12pt]Establish Company Departments – February 2019[/size]
+[size=12pt]Develop Company Policies - February 2019[/size]
+[size=12pt]Hire Team Members – March 2019[/size]
+[size=12pt]Open Up Trading Accounts in Different Markets and Countries – March 2019[/size]
+[size=12pt]Develop Dividend Distribution Software for Token Holders – April 2019[/size]
+[size=12pt]Develop Company Software for Asset Management – May 2019[/size]
+[size=12pt]Develop Onasander Crypto Exchange – June 2019[/size]
+[size=12pt]Hire Financial Advisors for Wealth Management Departments – November 2019[/size]
+[size=12pt]Expend Wealth Management Line of Business – March 2020[/size]
+[size=12pt]Create Onasander Financial Products – Q4 2020[/size]
+[size=12pt]Offer Onasander Products to Clients – Q1 2021[/size]
+[size=12pt]Hire Investment Bank Experts – September 2021[/size]
+[size=12pt]Create Investment Bank Conversion Strategy – January 2022[/size]
+[size=12pt]Prepare the Company for an Investment Bank Conversion – May 2022[/size]
+[size=12pt]Expend all Departments to Cover Most Common Lines of Business – September 2022[/size]
+[size=12pt]Turn Investment Fund into Investment Bank – June 2024[/size]
+[size=12pt]IPO of the Investment Bank – June 2028[/size]
+
+
+
+[color=teal][b][size=26pt]The Offer[/size][/b][/color]
+[size=12pt]Our offer is simple.  We use crowd funding to open up an investment fund backed by world assets.  We trade those assets, and profits from the trading go back into the value of the company, value of the token, and back to the original investors as dividends of 10%.  With time we turn the fund into an investment bank[/size]
+
+
+
+[color=red][b][size=16pt]10% Dividend[/size][/b][/color]
+[size=12pt]Onasander will pay dividends to our token holders.  The value of the dividend is 10%.   It will be paid every quarter with the following rules:[/size]
+
+
+[size=12pt]The 10% payment is based on Onasander quarterly profits.[/size]
+[size=12pt]Token holders must own tokens at the time of dividend payment.[/size]
+[size=12pt]Dividends are paid only for quarters in which Onasander made profits.[/size]
+[size=12pt]Onasander tokens must be owned by the token holder during the quarter for which the dividend is being paid.[/size]
+[size=12pt]In case our investor holds different token amounts during the given quarter, the smaller amount will be used to calculate the dividend payment. This includes the number of tokens owned on the dividend payment day (which will fall outside of a given quarter).[/size]
+[size=12pt]For investors not being vested (holding tokens) throughout the full quarter, the dividend will be prorated for the amount of days it was held during the quarter.[/size]
+
+
+
+[center][img]http://www.onasander.com/images/ico/dividend_payment.png[/img][/center]
+
+
+[color=teal][b][size=16pt]How Will Company Gains Benefit Token Holders?[/size][/b][/color]
+[size=12pt]Only limited initial investors will end up with our Onasander tokens.  Everyone else will be a client of our company.  The company will make revenue from trading, investments, and from client fees.  Our revenue will fuel the price of the token.[/size]
+
+
+
+[color=teal][b][size=14pt]Ways Investors Will Make Money with Us:[/size][/b][/color]
+[size=12pt]Dividends will be paid to token holders.  Every quarter, percentage (10%) of net revenue from trading will be divided and distributed among all token holders.[/size]
+[size=12pt]Higher value of the company will be reflected in higher token price on the exchanges.[/size]
+[size=12pt]As successful trades by Onasander become publicly known, and the company starts to have consistent revenue, people will jump to buy our tokens on the open market, driving the price much higher.[/size]
+[size=12pt]Once we establish an investment fund, and later on an investment bank, the profits from our clients will also become part of the dividends that will be distributed to token holders.[/size]
+[size=12pt]As the wealth of the world grows, our token supply will stay fixed.  This deflationary nature of the token will automatically grow its price.[/size]
+
+
+[center][img]http://onasander.com/images/team/team.png[/img][/center]
+
+
+[color=teal][b][size=26pt]Technical Details[/size][/b][/color]
+[size=12pt]Onasander tokens are cryptocurrency ERC20 tokens based on Ethereum technology.  Below you can get familiar with the technology and review how the ONA tokens will work, and how to obtain them in the ICO process.  The Onasander token will work just like a Closed-End Fund.  The number of tokens will be fixed.  The tokens will be traded among investors on an exchange.  Just like stocks, the token price will be determined according to the laws of supply and demand.  It means it will often trade at a wide discount or premium to the net asset value backing the token.
+[/size]
+
+
+
+[center][img]http://onasander.com/images/ico/tech_details.png[/img][/center]
+
+
+
+[size=12pt]ERC20 Contract: 0x5884c40ddEd55b5649A1AaA677A750eaD35E3043
+Smart Contract: [url]https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a750ead35e3043[/url][/size]
+
+
+
+
+[color=teal][b][size=26pt]Contact Information[/size][/b][/color]
+[size=12pt]Onasander
+285 Fulton St 
+New York, NY 10007
+[url]http://www.Onasander.com[/url]
+email: [email]info@onasander.com[/email]
+phone: +1.800.997.4066
+
+
+[/size]
+
+[img]http://onasander.com/images/icons/twitter.png[/img] Twitter: https://twitter.com/OnasanderICO
+
+
+
+[img]http://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/onasander.ico.bank
+
+
+
+[img]http://onasander.com/images/icons/linkedin.png[/img] LinkedIn: https://www.linkedin.com/in/onasander-ico-3862a7161/
+
+
+
+[img]http://onasander.com/images/icons/github.png[/img] GitHub: https://github.com/onasander
+
+
+
+[img]http://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/joinchat/G52Z0g2M0gnvX6L-92UZvA
+
+
+
+[img]http://onasander.com/images/icons/discord.png[/img] Discord: https://discordapp.com/invite/8tyyX8g
+
+
+[center]
+[img]http://onasander.com/images/smart_contract_with_title.png[/img]     [img]http://onasander.com/images/onasander_contact_with_title.png[/img]     [img]http://onasander.com/images/whitepaper_with_title.png[/img]
+[/center]
+
+
+[color=teal][b][size=26pt]Ethereum Wallets[/size][/b][/color]
+[size=12pt]Please note the above-mentioned wallets change pretty often.  Always research your best wallet options.  In case the investor does not have a wallet, he can simply fund these wallets using FIAT currency (real money), and purchase Ethereum on an exchange. He then sends the Ethereum into the crowd sale Smart Contract address.  It is very important not to send your Ethereum tokens straight from the exchange to our address.  You need to send your Ethereum tokens from the exchange to your non-exchange Ethereum wallet first, and then from that wallet to our contract address.[/size]
+
+[center]
+
+[img]http://onasander.com/images/ann/myetherwallet.png[/img]
+
+[url=https://www.myetherwallet.com/]MyEtherWallet.com[/url]
+
+[img]http://onasander.com/images/ann/ethereum_wallet.png[/img]
+
+[url=https://github.com/ethereum/mist/releases]GitHub.com/Ethereum[/url]
+
+[img]http://onasander.com/images/ann/exodus.png[/img]
+
+[url=https://www.exodus.io/]Exodus.io[/url]
+
+[img]http://onasander.com/images/ann/metamask.png[/img]
+
+[url=https://metamask.io/]MetaMask.io[/url]
+
+[img]http://onasander.com/images/ann/trezor.png[/img]
+
+[url=https://trezor.io/]Trezor.io[/url]
+
+[img]http://onasander.com/images/ann/imtoken.png[/img]
+
+[url=https://token.im/]token.im[/url]
+[img]http://onasander.com/images/ann/ledger.png[/img]
+
+[url=https://www.ledgerwallet.com/]LedgerWallet.com[/url]
+[img]http://onasander.com/images/ann/jaxx.png[/img]
+
+[url=https://jaxx.io/]Jaxx.io[/url]
+
