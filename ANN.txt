@@ -5,7 +5,7 @@
 
 
 
-[center][color=teal][size=16pt][url=http://onasander.com/whitepaper.html]WHITEPAPER[/url]  |  [url=https://www.facebook.com/OnasanderICO]FACEBOOK[/url]  |  [url=https://twitter.com/OnasanderICO]TWITTER[/url]  |  [url=https://t.me/joinchat/G52Z0g2M0gnvX6L-92UZvA]TELEGRAM[/url]  |  [url=https://discordapp.com/invite/8tyyX8g]DISCORD[/url]  |  [url=https://www.linkedin.com/in/onasander-ico-3862a7161/]LINKED IN[/url]  |  [url=https://github.com/onasander]GITHUB[/url]  |  [url=https://etherscan.io/token/0x5884c40dded55b5649a1aaa677a750ead35e3043]0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/url][/size][/color][/center]
+[center][color=teal][size=16pt][url=http://onasander.com/whitepaper.html]WHITEPAPER[/url]  |  [url=https://www.facebook.com/OnasanderICO]FACEBOOK[/url]  |  [url=https://twitter.com/OnasanderICO]TWITTER[/url]  |  [url=https://t.me/OnasanderICO]TELEGRAM[/url]  |  [url=https://discordapp.com/invite/8tyyX8g]DISCORD[/url]  |  [url=https://www.linkedin.com/in/onasander-ico-3862a7161/]LINKED IN[/url]  |  [url=https://github.com/onasander]GITHUB[/url]  |  [url=https://etherscan.io/token/0x5884c40dded55b5649a1aaa677a750ead35e3043]0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/url][/size][/color][/center]
 
 
 
@@ -220,13 +220,13 @@ phone: +1.800.997.4066
 
 [img]http://onasander.com/images/icons/twitter.png[/img] Twitter: https://twitter.com/OnasanderICO
 
-[img]http://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/onasander.ico.bank
+[img]http://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/OnasanderICO
 
 [img]http://onasander.com/images/icons/linkedin.png[/img] LinkedIn: https://www.linkedin.com/in/onasander-ico-3862a7161/
 
 [img]http://onasander.com/images/icons/github.png[/img] GitHub: https://github.com/onasander
 
-[img]http://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/joinchat/G52Z0g2M0gnvX6L-92UZvA
+[img]http://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/OnasanderICO
 
 [img]http://onasander.com/images/icons/discord.png[/img] Discord: https://discordapp.com/invite/8tyyX8g
 
