@@ -1,0 +1,2 @@
+aspnet_regiis -pef "secureAppSettings" E:\Onasander\GitHub\Onasander.com\app
+aspnet_regiis -pdf "secureAppSettings" E:\Onasander\GitHub\Onasander.com\app
