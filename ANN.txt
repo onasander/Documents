@@ -1,6 +1,6 @@
-[center][img]http://onasander.com/images/ann/title_red.png[/img][/center]
+[center][img]https://onasander.com/images/ann/title_red.png[/img][/center]
 
-[center][size=20pt][b]Official Website:[/b]  [url=http://www.Onasander.com]www.Onasander.com[/url][/size][/center]
+[center][size=20pt][b]Official Website:[/b]  [url=https://www.onasander.com]www.Onasander.com[/url][/size][/center]
 [center][size=20pt][b]Official Bounty:[/b]  [url=https://bitcointalk.org/index.php?topic=4456125.0]Onasander BOUNTY Thread[/url][/size][/center]
 [center][size=20pt][b]Official Airdrop:[/b]  [url=https://bitcointalk.org/index.php?topic=4235280.0]AIRDROP Thread[/url][/size][/center]
 
@@ -10,7 +10,7 @@
 
 
 
-[center][color=teal][size=16pt][url=http://onasander.com/whitepaper.html]WHITEPAPER[/url]  |  [url=https://www.facebook.com/OnasanderICO]FACEBOOK[/url]  |  [url=https://twitter.com/OnasanderICO]TWITTER[/url]  |  [url=https://t.me/OnasanderICO]TELEGRAM[/url]  |  [url=https://discordapp.com/invite/8tyyX8g]DISCORD[/url]  |  [url=https://www.linkedin.com/in/onasander-ico-3862a7161/]LINKED IN[/url]  |  [url=https://github.com/onasander]GITHUB[/url]  |  [url=https://etherscan.io/token/0x5884c40dded55b5649a1aaa677a750ead35e3043]0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/url][/size][/color][/center]
+[center][color=teal][size=16pt][url=https://onasander.com/whitepaper.html]WHITEPAPER[/url]  |  [url=https://www.facebook.com/OnasanderICO]FACEBOOK[/url]  |  [url=https://twitter.com/OnasanderICO]TWITTER[/url]  |  [url=https://t.me/OnasanderICO]TELEGRAM[/url]  |  [url=https://discordapp.com/invite/8tyyX8g]DISCORD[/url]  |  [url=https://www.linkedin.com/in/onasander-ico-3862a7161/]LINKED IN[/url]  |  [url=https://github.com/onasander]GITHUB[/url]  |  [url=https://etherscan.io/token/0x5884c40dded55b5649a1aaa677a750ead35e3043]0x5884c40ddEd55b5649A1AaA677A750eaD35E3043[/url][/size][/color][/center]
 
 
 
@@ -22,7 +22,7 @@
 [size=12pt]The investment fund will pay 10% dividend to all of our Onasander ONA token holders, as percentage of profits will be quarterly distributed to those who invested in our company.  Onasander fund will turn regular profits, because of our experience, and because of its unique Asset Price Analysis Software called Onasander.  Below is a chart from our Onasander trading application presenting most overpriced assets as of March 2018.[/size]
 
 
-[center][img]http://onasander.com/images/charts/overpriced_assets_2018_gray.png[/img]
+[center][img]https://onasander.com/images/charts/overpriced_assets_2018_gray.png[/img]
 
 This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.org/u/60aa8167-f22e-d005-1acd-c5e4558b64a3
 [/center]
@@ -48,26 +48,26 @@ This photo was timestamped on the Bitcoin blockchain at:  https://originstamp.or
 [center]
 [table]
 [tr]
-[td][img]http://onasander.com/images/icons/html.png[/img][/td]
+[td][img]https://onasander.com/images/icons/html.png[/img][/td]
 [td]    [/td]
 [td]    [/td]
 [td]    [/td]
-[td][img]http://onasander.com/images/icons/word.png[/img][/td]
+[td][img]https://onasander.com/images/icons/word.png[/img][/td]
 [td]    [/td]
 [td]    [/td]
 [td]    [/td]
-[td][img]http://onasander.com/images/icons/pdf.png[/img][/td]
+[td][img]https://onasander.com/images/icons/pdf.png[/img][/td]
 [/tr]
 [tr]
-[td][center][url=http://onasander.com/whitepaper_viewer.html]HTML Viewer[/url][/center][/td]
+[td][center][url=https://onasander.com/whitepaper_viewer.html]HTML Viewer[/url][/center][/td]
 [td]    [/td]
 [td]    [/td]
 [td]    [/td]
-[td][center][url=http://onasander.com/documents/whitepaper.docx]MS Word Viewer[/url][/center][/td]
+[td][center][url=https://onasander.com/documents/whitepaper.docx]MS Word Viewer[/url][/center][/td]
 [td]    [/td]
 [td]    [/td]
 [td]    [/td]
-[td][center][url=http://onasander.com/documents/whitepaper.pdf]PDF Viewer[/url][/center][/td]
+[td][center][url=https://onasander.com/documents/whitepaper.pdf]PDF Viewer[/url][/center][/td]
 [/tr]
 [/table]
 [/center]
@@ -88,7 +88,7 @@ Our ICO will have three PRE ICO-phases and one final ICO phase.  The token price
 [size=12pt]Onasander ICO will adhere to the following schedule:[/size]
 
 
-[center][img]http://onasander.com/images/ico/distribution.png[/img][/center]
+[center][img]https://onasander.com/images/ico/distribution.png[/img][/center]
 
 
 
@@ -114,7 +114,7 @@ Please always make sure to check on our website for the latest updates.
 Onasander market calls provide us with the exact price for the trade entry and exit, along with precise timing.  Knowing correctly what to buy, at what price, and when, is our most valuable, and unique part of the company.  Our software can also predict trade entry points into the future for decades.  Knowing when and what will be a price of assets in the future helps us to position our investments accordingly, so that not only we make money currently, we will also be ready for future trades.[/size]
 
 
-[center][img]http://onasander.com/images/ico/investment_bank.png[/img][/center]
+[center][img]https://onasander.com/images/ico/investment_bank.png[/img][/center]
 
 
 [color=teal][b][size=16pt]Investment Bank Timeline[/size][/b][/color]
@@ -174,7 +174,7 @@ Onasander market calls provide us with the exact price for the trade entry and e
 [/list]
 
 
-[center][img]http://www.onasander.com/images/ico/dividend_payment.png[/img][/center]
+[center][img]https://www.onasander.com/images/ico/dividend_payment.png[/img][/center]
 
 
 [color=teal][b][size=16pt]How Will Company Gains Benefit Token Holders?[/size][/b][/color]
@@ -192,8 +192,8 @@ Onasander market calls provide us with the exact price for the trade entry and e
 
 
 [center]
-[img]http://onasander.com/images/team/team.png[/img]
-[img]http://onasander.com/images/team/team2.png[/img]
+[img]https://onasander.com/images/team/team.png[/img]
+[img]https://onasander.com/images/team/team2.png[/img]
 [/center]
 
 
@@ -205,7 +205,7 @@ Onasander market calls provide us with the exact price for the trade entry and e
 
 
 
-[center][img]http://onasander.com/images/ico/tech_details.png[/img][/center]
+[center][img]https://onasander.com/images/ico/tech_details.png[/img][/center]
 
 
 
@@ -221,26 +221,26 @@ Smart Contract: [url=https://etherscan.io/address/0x5884c40dded55b5649a1aaa677a7
 [size=12pt]Onasander
 285 Fulton St 
 New York, NY 10007
-[url=http://www.Onasander.com]http://www.Onasander.com[/url]
+[url=https://www.onasander.com]https://www.onasander.com[/url]
 email: [email]info@onasander.com[/email]
 phone: +1.800.997.4066
 [/size]
 
-[img]http://onasander.com/images/icons/twitter.png[/img] Twitter: https://twitter.com/OnasanderICO
+[img]https://onasander.com/images/icons/twitter.png[/img] Twitter: https://twitter.com/OnasanderICO
 
-[img]http://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/OnasanderICO
+[img]https://onasander.com/images/icons/facebook.png[/img] Facebook: https://www.facebook.com/OnasanderICO
 
-[img]http://onasander.com/images/icons/linkedin.png[/img] LinkedIn: https://www.linkedin.com/in/onasander-ico-3862a7161/
+[img]https://onasander.com/images/icons/linkedin.png[/img] LinkedIn: https://www.linkedin.com/in/andre-wegrzyn-3862a7161/
 
-[img]http://onasander.com/images/icons/github.png[/img] GitHub: https://github.com/onasander
+[img]https://onasander.com/images/icons/github.png[/img] GitHub: https://github.com/onasander
 
-[img]http://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/OnasanderICO
+[img]https://onasander.com/images/icons/telegram.png[/img] Telegram: https://t.me/OnasanderICO
 
-[img]http://onasander.com/images/icons/discord.png[/img] Discord: https://discordapp.com/invite/8tyyX8g
+[img]https://onasander.com/images/icons/discord.png[/img] Discord: https://discordapp.com/invite/8tyyX8g
 
 
 [center]
-[img]http://onasander.com/images/smart_contract_with_title.png[/img]     [img]http://onasander.com/images/onasander_contact_with_title.png[/img]     [img]http://onasander.com/images/whitepaper_with_title.png[/img]
+[img]https://onasander.com/images/smart_contract_with_title.png[/img]     [img]https://onasander.com/images/onasander_contact_with_title.png[/img]     [img]https://onasander.com/images/whitepaper_with_title.png[/img]
 [/center]
 
 
@@ -252,10 +252,10 @@ phone: +1.800.997.4066
 [center]
 [table]
 [tr]
-[td][center][img]http://onasander.com/images/ann/myetherwallet.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/ethereum_wallet.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/exodus.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/metamask.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/myetherwallet.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/ethereum_wallet.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/exodus.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/metamask.png[/img][/center][/td]
 [/tr]
 [tr]
 [td][center][url=https://www.myetherwallet.com/]MyEtherWallet.com[/url][/center][/td]
@@ -264,10 +264,10 @@ phone: +1.800.997.4066
 [td][center][url=https://metamask.io/]MetaMask.io[/url][/center][/td]
 [/tr]
 [tr]
-[td][center][img]http://onasander.com/images/ann/trezor.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/imtoken.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/ledger.png[/img][/center][/td]
-[td][center][img]http://onasander.com/images/ann/jaxx.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/trezor.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/imtoken.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/ledger.png[/img][/center][/td]
+[td][center][img]https://onasander.com/images/ann/jaxx.png[/img][/center][/td]
 [/tr]
 [tr]
 [td][center][url=https://trezor.io/]Trezor.io[/url][/center][/td]
